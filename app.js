@@ -8,14 +8,11 @@ String.prototype.replaceAll = function(search, replacement) {
     return target.replace(new RegExp(search, 'g'), replacement);
 };
 
-buff = '<h1>Ofertas de trabajo</h1>';
-empleosHn(10, buff);
-
 app.set('title', 'Bolsa de trabajo');
 app.get('title');
 app.get('/', function(req, res){
-  res.writeHead(200, {'Content-Type': 'text/html'});
-  res.end(buff.toString('utf-8'));
+  res.writeHead(200, {'Content-Type': 'application/json'});
+  empleosHn(10, buff, res);
 });
 
 app.listen(3000);
