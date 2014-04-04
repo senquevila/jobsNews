@@ -3,11 +3,6 @@ var express = require('express')
   , buff// = require('buffer')
   , empleosHn = require('empleoshn.js');
 
-String.prototype.replaceAll = function(search, replacement) {
-    var target = this;
-    return target.replace(new RegExp(search, 'g'), replacement);
-};
-
 app.set('title', 'Bolsa de trabajo');
 app.get('title');
 app.get('/', function(req, res){
