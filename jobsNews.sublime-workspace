@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"count"
+			],
+			[
+				"js",
+				"json_array"
+			],
+			[
+				"j",
+				"json_array"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"chi",
+				"childrenStr"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"fe",
+				"fechaStr"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"repla",
+				"replaceAll"
+			],
+			[
+				"ece",
+				"execSync"
+			],
+			[
+				"p",
+				"pwd"
+			],
+			[
+				"shle",
+				"shelljs"
+			],
+			[
+				"t",
+				"txt"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"Fe",
+				"FechaLiquidacion"
+			],
+			[
+				"c",
+				"ContratoId"
+			],
+			[
+				"con",
+				"ContratosCuotas"
+			],
+			[
+				"in",
+				"INNER"
+			],
+			[
+				"a",
+				"As"
+			],
+			[
+				"cont",
+				"ContratoId"
+			],
+			[
+				"CLI",
+				"ClienteId"
+			],
+			[
+				"CON",
+				"ContratosM"
+			],
+			[
+				"C",
+				"ContratosM"
+			],
+			[
+				"J",
+				"JOIN"
+			],
+			[
+				"IN",
+				"INNER"
+			],
+			[
+				"li",
+				"Liquidado"
+			],
+			[
+				"cn",
+				"ContratosM"
+			],
+			[
+				"cli",
+				"ClienteId"
+			],
+			[
+				"em",
+				"EmpresaId"
+			],
+			[
+				"A",
+				"As"
+			],
+			[
+				"Cli",
+				"ClienteId"
+			],
+			[
+				"Contr",
+				"ContratosM"
+			],
+			[
+				"Contrato",
+				"contratos"
+			],
+			[
+				"CONTR",
+				"ContratosM"
+			],
+			[
+				"PL",
+				"PLUEmpresa"
+			],
+			[
+				"cl",
+				"ClienteId"
+			],
+			[
+				"contr",
+				"ContratosM"
+			],
+			[
+				"clie",
+				"ClienteId"
+			],
+			[
+				"dia",
+				"Dias"
+			],
+			[
+				"LI",
+				"Liquidado"
+			],
+			[
+				"EM",
+				"EmpresaId"
+			],
+			[
+				"CONTRA",
+				"ContratosM"
+			],
+			[
+				"DI",
+				"DiferenciaDiasComerciales"
+			],
+			[
+				"CO",
+				"Codigo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Pa",
+				"Snippet: Main"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"the",
+				"Set Syntax: Haskell"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/senquevila/Documents/workspace/nodejs/linkDownload/log.txt",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/test.js",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/send/node_modules/mime/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/vhost/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/static-favicon/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/serve-static/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/serve-index/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/response-time/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/raw-body/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/qs/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/pause/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/multiparty/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/morgan/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/method-override/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/express-session/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/errorhandler/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/csurf/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/cookie-parser/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/connect-timeout/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/compression/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/bytes/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/node_modules/basic-auth-connect/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/commander/node_modules/keypress/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/cheerio/node_modules/htmlparser2/node_modules/domelementtype/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/cheerio/node_modules/CSSselect/node_modules/CSSwhat/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/response/node_modules/stream-browserify/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/response/node_modules/mime/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/response/node_modules/caseless/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/response/node_modules/bl/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/response/node_modules/best-encoding/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/tunnel-agent/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/tough-cookie/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/qs/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/oauth-sign/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/node-uuid/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/mime/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/json-stringify-safe/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/http-signature/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/hawk/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/form-data/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/forever-agent/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/node_modules/aws-sign2/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/send/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/range-parser/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/mkdirp/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/methods/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/merge-descriptors/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/fresh/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/debug/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/cookie-signature/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/cookie/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/commander/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/buffer-crc32/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/cheerio/node_modules/underscore/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/cheerio/node_modules/htmlparser2/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/cheerio/node_modules/entities/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/cheerio/node_modules/CSSselect/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/response/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/request/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/cheerio/package.json",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/lib/patch.js",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/node_modules/express/node_modules/connect/lib/cache.js",
+		"/Users/senquevila/Documents/workspace/nodejs/jobsNews/app.js",
+		"/Users/senquevila/Documents/workspace/nodejs/extractWeb/node_modules/download.js",
+		"/Users/senquevila/Documents/workspace/nodejs/extractWeb/download.js",
+		"/Users/senquevila/Documents/workspace/nodejs/extractWeb/extract.js",
+		"/Users/senquevila/Documents/workspace/nodejs/linkDownload/queue.txt",
+		"/Users/senquevila/Documents/workspace/nodejs/linkDownload/linkDownload.js",
+		"/Users/senquevila/Documents/workspace/nodejs/linkDownload.js/queue.txt",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/senquevila/Dropbox/INVILP/Querys.sql",
+		"/Users/senquevila/Dropbox/INVILP/SMS/Cualquier mora.sql",
+		"/Users/senquevila/Dropbox/INVILP/SMS/Calculo de Mora 60.sql"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Circular",
+			"test",
+			");",
+			"for",
+			"	,",
+			"cruela",
+			"path",
+			"E"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Object"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "jobsNews.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
