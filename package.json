@@ -1,11 +1,12 @@
 {
-  "name": "application-name",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "3.5.1",
+  "name"         : "node-web-scrape",
+  "version"      : "0.0.1",
+  "description"  : "Ver informacion de una pagina web acerca de trabajos",
+  "main"         : "server.js",
+  "author"       : "jeavila",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
   }
 }

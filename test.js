@@ -1,18 +1,27 @@
-var express = require('express')
-  , app = express()
-  , jarray = new Array();
-  
-jarray[0] = 'hola';
-jarray[1] = 'mundo';
+var request = require("request");
+var cheerio = require("cheerio");
+var fs = require('fs');
+var urls = ["http://www.tegucigalpa.diplo.de/Vertretung/tegucigalpa/es/06/Studieren__in__Deutschland/Becas__posgrado__Seite__es.html"]
+var data = [];
 
-console.log(jarray);
+var req = function(url){
+    request({uri: url}, function(error, response, body) {
+        var $ = cheerio.load(body);
+		$("a").each(function() { 
+		  var link = $(this);
+		  var itri = {iti: new Array(link.attr("href"))}
+		  data.push( itri );
+		});
+		fs.writeFile("file.json", JSON.stringify(data), function(err){
+		  if(err)
+		  	console.log(err); 
+		  else console.log("archivo guardado..");
+		});
+	})
+}
 
-app.get('/', function(req, res){
-  res.writeHead(200, {'Content-Type': 'application/json'});
-  res.write(JSON.stringify(jarray));  
-  res.write(JSON.stringify(jarray));
-  res.end();
-});
+for (var i = 0; i < urls.length; i++){
+    req(urls[i]);
+}
 
-app.listen(3000);
-console.log('Listening port 3000');
+console.log("cargando...");
