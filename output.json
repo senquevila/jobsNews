@@ -1,5 +1,57 @@
-{
-    "fecha": "\r\n\t\t04-Apr-2014\t\t",
-    "descripcion": "",
-    "lugar": "\r\n\t\tTegucigalpa FM\t\t"
-}
+[
+    {
+        "fecha": "Fecha",
+        "descripcion": "Descripcion",
+        "lugar": "Location"
+    },
+    {
+        "fecha": "08-Apr-2014",
+        "descripcion": "Asistente de Ventas  Publicado por: Angela RomeroCategoria:Tiempo CompletoAsistente de VentasLa funci�n principal del puesto es brindar soporte administrativo al equipo comercial para superar las metas de venta y ren... ",
+        "lugar": "Tegucigalpa"
+    },
+    {
+        "fecha": "08-Apr-2014",
+        "descripcion": "Evaluaci�n de Competencias para Certificar Personas en el �rea de Alba�iler�a  Publicado por: CONEANFO - UPECategoria:Medio y tiempo completoEvaluaci�n de Competencias para Certificar Personas en el �rea de Alba�iler�a 1.      BREVES ANTECEDENTESSOBRE LA CONSULTORIAEl pres... ",
+        "lugar": "Tegucigalpa,  FM"
+    },
+    {
+        "fecha": "08-Apr-2014",
+        "descripcion": "EVALUACION DE COMPETENCIAS PARA CERTIFICAR PERSONAS  EN EL AREA DE SOLDADURA  Publicado por: CONEANFO - UPECategoria:Medio y tiempo completoNOMBRE DE LA CONSULTOR�A EVALUACION DE COMPETENCIAS PARA CERTIFICAR PERSONAS EN EL AREA DE SOLDADURA  1. BREVES ANTEC... ",
+        "lugar": "Tegucigalpa,  FM"
+    },
+    {
+        "fecha": "08-Apr-2014",
+        "descripcion": "Gerente de Comercializacion  Publicado por: Recurso y Talento HumanoCategoria:Tiempo CompletoGerente de Comercializacion  Administrar las actividades de comercializaci�n, soporte de negocios y servicio al cliente a nivel pa�s. \r... ",
+        "lugar": "Tegucigalpa"
+    },
+    {
+        "fecha": "08-Apr-2014",
+        "descripcion": "SUB GERENTE DE NEGOCIOS PYME EN SAN PEDRO SULA  Publicado por: INSTITUCION DE SOLIDO PRESTIGIOCategoria:Tiempo Completo Profesional graduado a nivel de Licenciatura en la carrera de Ciencias Econ�micas, deseable con Postgrado y/o Maestr�a en Negocios... ",
+        "lugar": "SAN PEDRO SULA"
+    },
+    {
+        "fecha": "07-Apr-2014",
+        "descripcion": "Consultor(a) Nacional en Contaminantes Org�nicos Persistentes de Plaguicidas  Publicado por: ONUDI/SERNAM/CESCCOCategoria:Tiempo CompletoLA SECRETAR�A DE ENERGIA, RECURSOS NATURALES Y AMBIENTE (SERNAM) Y  LA ORGANIZACI�N DE LAS NACIONES UNIDAS PARA EL DESARROLLO INDUSTRIAL ... ",
+        "lugar": "Tegucigalpa D. C. "
+    },
+    {
+        "fecha": "07-Apr-2014",
+        "descripcion": "Responsable de Unidad  Publicado por: Angela RomeroCategoria:Tiempo CompletoRequisitos: Graduado (a)  Universitario de Publicidad, Mercadeo o similarEdad: entre 30 y 35Genero : IndistintoMuy buena presen... ",
+        "lugar": "Tegucigalpa"
+    },
+    {
+        "fecha": "07-Apr-2014",
+        "descripcion": "Estilista Profesional  Publicado por: SPACategoria:Tiempo CompletoEspacio Vital, Empresa de solido prestigio en el �rea de la belleza y la est�tica, busca ESTILISTA PROFESIONAL con 3 a�os m�nimo de experiencia, ha... ",
+        "lugar": "Tegucigalpa FM"
+    },
+    {
+        "fecha": "07-Apr-2014",
+        "descripcion": "Especialista de impuestos  Publicado por: Grupo TerraCategoria:Tiempo CompletoEspecialista de impuestos REQUISITOS 1.    Licenciado en Contadur�a P�blica o Af�n 2.    Preferiblemente M�ster en �r... ",
+        "lugar": "Tegucigalpa FM"
+    },
+    {
+        "fecha": "07-Apr-2014",
+        "descripcion": "COORDINADOR DE MEJORA CONTINUA  Publicado por: Reclutamiento EmpresarialCategoria:Tiempo CompletoEMPRESA INDUSTRIAL EN TEGUCIGALPA BUSCA COORDINADOR DE PROCESO DE MEJORA CONTINUAIngeniero industrial Biling�eExperiencia implementa... ",
+        "lugar": "Tegucigalpa"
+    }
+]

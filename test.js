@@ -12,7 +12,7 @@ var req = function(url){
 		  var itri = {iti: new Array(link.attr("href"))}
 		  data.push( itri );
 		});
-		fs.writeFile("file.json", JSON.stringify(data), function(err){
+		fs.writeFile("file.json", JSON.stringify(data, null, 4), function(err){
 		  if(err)
 		  	console.log(err); 
 		  else console.log("archivo guardado..");
